@@ -1,8 +1,7 @@
-###################
-MLM | Multi level marketing Application create using php,codeigniter,Ajax,Json,Angularjs
-###################
 
-MLM Application Login Details : 
+MLM PROJECT
+
+ 
   http://localhost/mlm/
-  Username : admin@mlm.com
+  Username : rudyfathur26@gmail.com
   Password : 123456
